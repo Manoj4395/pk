@@ -15,3 +15,8 @@ while getopts u:s:r:  flag
   echo "usernmae: $username";
   echo "sub: $sub";
   echo "room: $room";
+  #varibale
+   username =manoj
+   sub =math
+
+   echo "username:" $1
